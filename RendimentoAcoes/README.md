@@ -14,8 +14,8 @@ Este projeto tem como objetivo realizar uma análise financeira de ações utili
     GitHub:https://github.com/LuigiAjello
 - Pedro Miranda 
     email: pedrocadaluz@gmail.com
-    GitHub:https://www.linkedin.com/in/pedro-arthur-da-luz-miranda-4a94a5301/
-    LinkedIn:https://github.com/pedrocadaluz
+    Linkedin:https://www.linkedin.com/in/pedro-arthur-da-luz-miranda-4a94a5301/
+    GitHub:https://github.com/pedrocadaluz
 
 ## Funcionalidades
 
